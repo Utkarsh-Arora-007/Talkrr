@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "37528154846",
+    "firebase_url": "https://talkrr-7d283-default-rtdb.firebaseio.com",
+    "project_id": "talkrr-7d283",
+    "storage_bucket": "talkrr-7d283.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37528154846:android:78b4d7499c76f0d11d884f",
+        "android_client_info": {
+          "package_name": "com.example.talkrr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37528154846-qlotliade51pn2vmfacmtmqvaahj85me.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.talkrr",
+            "certificate_hash": "4d22bd68544cd64e3020b12de7e0e600ce46a086"
+          }
+        },
+        {
+          "client_id": "37528154846-r6va9sdd3tia77lcnu9elee3d5c5ien6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn2Uz__x1dhAcnPngrAKiOj8d-EXeRQ8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37528154846-r6va9sdd3tia77lcnu9elee3d5c5ien6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
